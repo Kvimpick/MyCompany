@@ -5,6 +5,12 @@
 	.about-right{
 		padding: 0 30px 0 30px;
 	}
+	.our-team{
+		padding-bottom: 100px;
+	}
+	.our-team .underline{
+		left: 44.8%;
+	}
 }
 
 /* Medium Devices, Desktops */
@@ -25,6 +31,13 @@
 	}
 	.about-right ul{
 		text-align: justify;
+	}
+	.our-team .item-3,
+	.our-team .item-4{
+		margin-top: 100px;
+	}
+	.our-team .underline{
+		left: 44%;
 	}
 }
 
@@ -66,6 +79,13 @@
 	.title-block{
 		margin-top: 200px;
 	}
+	.our-team .item-1,
+	.our-team .item-2{
+		margin-top: 100px;
+	}
+	.our-team .underline{
+		left: 43.4%;
+	}
 }
 
 @media only screen and (max-width : 555px) {
@@ -76,7 +96,9 @@
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
-	
+	.our-team .underline{
+		left: 39%;
+	}
 }
 
 /* Custom, iPhone Retina */
