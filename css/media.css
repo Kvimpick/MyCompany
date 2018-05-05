@@ -14,6 +14,13 @@
 	.our-services .underline{
 		left: 44.8%;
 	}
+	.our-clients .underline{
+		left: 44.8%;
+	}
+	.our-clients .lancome,
+	.our-clients .lacoste{
+		margin-top: 30px;
+	}
 }
 
 /* Medium Devices, Desktops */
@@ -43,6 +50,9 @@
 		left: 44%;
 	}
 	.our-services .underline{
+		left: 44%;
+	}
+	.our-clients .underline{
 		left: 44%;
 	}
 	.our-services .item-3,
@@ -99,9 +109,19 @@
 	.our-services .underline{
 		left: 43.4%;
 	}
+	.our-clients .underline{
+		left: 43.4%;
+	}
 	.our-services .item-1,
 	.our-services .item-2{
 		margin-top: 100px;
+	}
+	.our-clients .lancome,
+	.our-clients .lacoste{
+		margin-top: 0;
+	}
+	.our-clients img{
+		margin-bottom: 25px;
 	}
 }
 
@@ -117,6 +137,9 @@
 		left: 39%;
 	}
 	.our-services .underline{
+		left: 39%;
+	}
+	.our-clients .underline{
 		left: 39%;
 	}
 }

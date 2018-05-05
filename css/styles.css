@@ -228,6 +228,31 @@ a.logo:hover{
 	cursor: pointer;
 }
 
+/* OUR-CLIENTS SECTION */
+
+.our-clients{
+	background-color: #0b0b0b;
+	padding: 100px 0 210px 0;
+}
+.our-clients h1{
+	font-size: 44px;
+	color: #fff;
+	font-weight: 300;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.our-clients span{
+	font-weight: 500;
+}
+.our-clients .zara{
+	padding-top: 4px;
+}
+.our-clients .lancome{
+	margin-top: -2px;
+}
+
+
+
 
 
 
