@@ -11,6 +11,9 @@
 	.our-team .underline{
 		left: 44.8%;
 	}
+	.our-services .underline{
+		left: 44.8%;
+	}
 }
 
 /* Medium Devices, Desktops */
@@ -38,6 +41,13 @@
 	}
 	.our-team .underline{
 		left: 44%;
+	}
+	.our-services .underline{
+		left: 44%;
+	}
+	.our-services .item-3,
+	.our-services .item-4{
+		margin-top: 100px;
 	}
 }
 
@@ -86,6 +96,13 @@
 	.our-team .underline{
 		left: 43.4%;
 	}
+	.our-services .underline{
+		left: 43.4%;
+	}
+	.our-services .item-1,
+	.our-services .item-2{
+		margin-top: 100px;
+	}
 }
 
 @media only screen and (max-width : 555px) {
@@ -97,6 +114,9 @@
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
 	.our-team .underline{
+		left: 39%;
+	}
+	.our-services .underline{
 		left: 39%;
 	}
 }
