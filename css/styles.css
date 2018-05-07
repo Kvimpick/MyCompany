@@ -242,7 +242,7 @@ a.logo:hover{
 	margin-bottom: 30px;
 }
 .our-clients span{
-	font-weight: 500;
+	font-weight: 600;
 }
 .our-clients .zara{
 	padding-top: 4px;
@@ -251,6 +251,35 @@ a.logo:hover{
 	margin-top: -2px;
 }
 
+/* OUR-WORK SECTION */
+
+.our-work{
+	padding: 100px 0 100px 0;
+	text-align: center;
+}
+.our-work h1{
+	font-size: 44px;
+	font-weight: 300;
+	margin-bottom: 30px;
+}
+.our-work h1 span{
+	font-weight: 600;
+}
+.our-work .underline{
+	margin-bottom: 55px;
+}
+.our-work p.about{
+	margin: 0 10px 175px 10px;
+}
+.our-work img{
+	margin: 0 auto;
+} 
+.our-work img:hover{
+	opacity: .9;
+} 
+.our-work .img-item{
+	padding: 15px;
+}
 
 
 

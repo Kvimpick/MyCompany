@@ -17,9 +17,15 @@
 	.our-clients .underline{
 		left: 44.8%;
 	}
+	.our-work .underline{
+		left: 44.8%;
+	}
 	.our-clients .lancome,
 	.our-clients .lacoste{
 		margin-top: 30px;
+	}
+	.our-work p.about{
+		margin-bottom: 100px;
 	}
 }
 
@@ -53,6 +59,9 @@
 		left: 44%;
 	}
 	.our-clients .underline{
+		left: 44%;
+	}
+	.our-work .underline{
 		left: 44%;
 	}
 	.our-services .item-3,
@@ -112,6 +121,9 @@
 	.our-clients .underline{
 		left: 43.4%;
 	}
+	.our-work .underline{
+		left: 43.4%;
+	}
 	.our-services .item-1,
 	.our-services .item-2{
 		margin-top: 100px;
@@ -142,6 +154,8 @@
 	.our-clients .underline{
 		left: 39%;
 	}
+	.our-work .underline{
+		left: 39%;
 }
 
 /* Custom, iPhone Retina */
