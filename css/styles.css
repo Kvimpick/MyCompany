@@ -275,10 +275,46 @@ a.logo:hover{
 	margin: 0 auto;
 } 
 .our-work img:hover{
-	opacity: .9;
+	opacity: .8;
 } 
 .our-work .img-item{
 	padding: 15px;
+}
+
+/* TESTIMONIALS */
+
+.testimonials{
+	text-align: center;
+	background-color: #0b0b0b;
+	padding: 100px 0 175px 0;
+}
+.testimonials h1{
+	font-size: 44px;
+	color: #fff;
+	font-weight: 300;
+	margin-bottom: 30px;
+}
+.testimonials h1 span{
+	font-weight: 600;
+}
+.testimonials .underline{
+	margin-bottom: 115px;
+}
+.testimonials p{
+	font-size: 18px;
+	font-weight: 700;
+	color: #e7e7e7;
+	text-transform: uppercase;
+	margin: 0 10px 10px 10px;
+}
+.testimonials p.author{
+	font-weight: 500;
+	text-transform: none;
+	color: #b2b2b2;
+	margin-top: 40px;
+}
+.testimonials p.author span{
+	font-weight: 600;
 }
 
 
