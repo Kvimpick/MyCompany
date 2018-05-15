@@ -135,15 +135,15 @@ a.logo:hover{
 }
 .our-team h1{
 	font-size: 44px;
-	padding-bottom: 30px;
+	padding-bottom: 110px;
 }
-.underline{
+.our-team h1:after{
+	content: "";
+	display: block;
+	margin: 0 auto;
 	width: 100px;
-	height: 3px;
-	background: #fcac45;
-	position: relative;
-	left: 45.5%;
-	margin-bottom: 105px;
+	padding-top: 30px;
+	border-bottom: 3px solid #fcac45;
 }
 .our-team h4{
 	font-size: 20px;
@@ -180,9 +180,15 @@ a.logo:hover{
 .our-services h1{
 	font-size: 44px;
 	padding-bottom: 30px;
+	margin-bottom: 20px;
 }
-.our-services .underline{
-	margin-bottom: 55px;
+.our-services h1:after{
+	content: "";
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	padding-top: 30px;
+	border-bottom: 3px solid #fcac45;
 }
 .our-services .about{
 	margin: 0 10px 100px 10px; 
@@ -239,7 +245,15 @@ a.logo:hover{
 	color: #fff;
 	font-weight: 300;
 	text-align: center;
-	margin-bottom: 30px;
+	margin-bottom: 110px;
+}
+.our-clients h1:after{
+	content: "";
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	padding-top: 30px;
+	border-bottom: 3px solid #fcac45;
 }
 .our-clients span{
 	font-weight: 600;
@@ -260,13 +274,18 @@ a.logo:hover{
 .our-work h1{
 	font-size: 44px;
 	font-weight: 300;
-	margin-bottom: 30px;
+	margin-bottom: 55px;
+}
+.our-work h1:after{
+	content: "";
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	padding-top: 30px;
+	border-bottom: 3px solid #fcac45;
 }
 .our-work h1 span{
 	font-weight: 600;
-}
-.our-work .underline{
-	margin-bottom: 55px;
 }
 .our-work p.about{
 	margin: 0 10px 175px 10px;
@@ -292,13 +311,18 @@ a.logo:hover{
 	font-size: 44px;
 	color: #fff;
 	font-weight: 300;
-	margin-bottom: 30px;
+	margin-bottom: 110px;
+}
+.testimonials h1:after{
+	content: "";
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	padding-top: 30px;
+	border-bottom: 3px solid #fcac45;
 }
 .testimonials h1 span{
 	font-weight: 600;
-}
-.testimonials .underline{
-	margin-bottom: 115px;
 }
 .testimonials p{
 	font-size: 18px;
@@ -323,16 +347,18 @@ a.logo:hover{
 	margin: 100px 0 100px 0;
 	text-align: center;
 }
-/* .contact-us .container{
-	width: 750px;
-} */
 .contact-us h1{
 	font-size: 44px;
 	font-weight: 500;
-	margin-bottom: 30px;
-}
-.contact-us .underline{
 	margin-bottom: 55px;
+}
+.contact-us h1:after{
+	content: "";
+	display: block;
+	margin: 0 auto;
+	width: 100px;
+	padding-top: 30px;
+	border-bottom: 3px solid #fcac45;
 }
 .contact-us p{
 	font-size: 14px;
@@ -377,6 +403,19 @@ input[type="email"]{
 	margin-top: 30px;
 	float: right;
 } 
+
+/* FOOTER */
+
+footer{
+	padding: 30px 0 30px 0;
+	background-color: #222;
+	text-align: center;
+}
+footer a{
+	margin: 0 4px 0 4px;
+}
+
+
 
 
 

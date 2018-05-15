@@ -8,24 +8,6 @@
 	.our-team{
 		padding-bottom: 100px;
 	}
-	.our-team .underline{
-		left: 44.8%;
-	}
-	.our-services .underline{
-		left: 44.8%;
-	}
-	.our-clients .underline{
-		left: 44.8%;
-	}
-	.our-work .underline{
-		left: 44.8%;
-	}
-	.testimonials .underline{
-		left: 44.8%;
-	}
-	.contact-us .underline{
-		left: 44.8%;
-	}
 	.our-clients .lancome,
 	.our-clients .lacoste{
 		margin-top: 30px;
@@ -58,27 +40,15 @@
 	.our-team .item-4{
 		margin-top: 100px;
 	}
-	.our-team .underline{
-		left: 44%;
-	}
-	.our-services .underline{
-		left: 44%;
-	}
-	.our-clients .underline{
-		left: 44%;
-	}
-	.our-work .underline{
-		left: 44%;
-	}
-	.testimonials .underline{
-		left: 44%;
-	}
-	.contact-us .underline{
-		left: 44%;
-	}
 	.our-services .item-3,
 	.our-services .item-4{
 		margin-top: 100px;
+	}
+	.about-us h1{
+		margin-bottom: 55px;
+	}
+	.about-us ul{
+		margin-top: 40px;
 	}
 }
 
@@ -124,24 +94,6 @@
 	.our-team .item-2{
 		margin-top: 100px;
 	}
-	.our-team .underline{
-		left: 43.4%;
-	}
-	.our-services .underline{
-		left: 43.4%;
-	}
-	.our-clients .underline{
-		left: 43.4%;
-	}
-	.our-work .underline{
-		left: 43.4%;
-	}
-	.testimonials .underline{
-		left: 43.4%;
-	}
-	.contact-us .underline{
-		left: 43.4%;
-	}
 	.our-services .item-1,
 	.our-services .item-2{
 		margin-top: 100px;
@@ -151,7 +103,7 @@
 		margin-top: 0;
 	}
 	.our-clients img{
-		margin-bottom: 25px;
+		margin-bottom: 30px;
 	}
 	.contact-us .form-1,
 	.contact-us .form-2, 
@@ -166,6 +118,9 @@
 	.contact-us .form-2{
 		margin-bottom: 25px;
 	}
+	.our-team h1{
+		padding-bottom: 45px;
+	}
 }
 
 @media only screen and (max-width : 555px) {
@@ -176,24 +131,7 @@
 
 /* Extra Small Devices, Phones */
 @media only screen and (max-width : 480px) {
-	.our-team .underline{
-		left: 39%;
-	}
-	.our-services .underline{
-		left: 39%;
-	}
-	.our-clients .underline{
-		left: 39%;
-	}
-	.our-work .underline{
-		left: 39%;
-	}
-	.testimonials .underline{
-		left: 39%;
-	}
-	.contact-us .underline{
-		left: 39%;
-	}
+
 }
 
 /* Custom, iPhone Retina */
