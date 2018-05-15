@@ -317,6 +317,70 @@ a.logo:hover{
 	font-weight: 600;
 }
 
+/* CONTACT-US */
+
+.contact-us{
+	margin: 100px 0 100px 0;
+	text-align: center;
+}
+/* .contact-us .container{
+	width: 750px;
+} */
+.contact-us h1{
+	font-size: 44px;
+	font-weight: 500;
+	margin-bottom: 30px;
+}
+.contact-us .underline{
+	margin-bottom: 55px;
+}
+.contact-us p{
+	font-size: 14px;
+	color: #636363;
+	float: left;
+}
+.contact-us p.about{
+	color: #6c6c6c;
+	font-size: 16px;
+	margin: 0 10px 100px 10px;
+}
+input:not(#submit),
+textarea{
+	width: 100%;
+}
+.red{
+	color: red;
+}
+.contact-us .form-1{
+	padding-left: 0;
+	margin-bottom: 30px;
+}
+.contact-us .form-2{
+	padding-right: 0;
+	margin-bottom: 30px;
+}
+.contact-us input,
+.contact-us textarea{
+	border: 1px solid #d7d7d7;
+}
+input[type="text"],
+input[type="email"]{
+	height: 40px;
+}
+.contact-us #submit{
+	font-size: 16px;
+	color: #fff;
+	background-color: #fcac45;
+	text-transform: uppercase;
+	font-weight: 600;
+	padding: 13px 60px 13px 60px;
+	margin-top: 30px;
+	float: right;
+} 
+
+
+
+
 
 
 
